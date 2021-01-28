@@ -1,0 +1,30 @@
+D:\Hot Notepad\Hot Notepad\bin\Debug\Hot Notepad.exe.config
+D:\Hot Notepad\Hot Notepad\bin\Debug\Hot Notepad.exe
+D:\Hot Notepad\Hot Notepad\bin\Debug\Hot Notepad.pdb
+D:\Hot Notepad\Hot Notepad\obj\Debug\Hot Notepad.csprojAssemblyReference.cache
+D:\Hot Notepad\Hot Notepad\obj\Debug\Hot_Notepad.Form1.resources
+D:\Hot Notepad\Hot Notepad\obj\Debug\Hot_Notepad.Properties.Resources.resources
+D:\Hot Notepad\Hot Notepad\obj\Debug\Hot Notepad.csproj.GenerateResource.cache
+D:\Hot Notepad\Hot Notepad\obj\Debug\Hot Notepad.csproj.CoreCompileInputs.cache
+D:\Hot Notepad\Hot Notepad\obj\Debug\Hot Notepad.exe
+D:\Hot Notepad\Hot Notepad\obj\Debug\Hot Notepad.pdb
+D:\Project\Hot Notepad\Hot Notepad\bin\Debug\Hot Notepad.exe.config
+D:\Project\Hot Notepad\Hot Notepad\bin\Debug\Hot Notepad.exe
+D:\Project\Hot Notepad\Hot Notepad\bin\Debug\Hot Notepad.pdb
+D:\Project\Hot Notepad\Hot Notepad\obj\Debug\Hot Notepad.csprojAssemblyReference.cache
+D:\Project\Hot Notepad\Hot Notepad\obj\Debug\Hot_Notepad.Form1.resources
+D:\Project\Hot Notepad\Hot Notepad\obj\Debug\Hot_Notepad.Properties.Resources.resources
+D:\Project\Hot Notepad\Hot Notepad\obj\Debug\Hot Notepad.csproj.GenerateResource.cache
+D:\Project\Hot Notepad\Hot Notepad\obj\Debug\Hot Notepad.csproj.CoreCompileInputs.cache
+D:\Project\Hot Notepad\Hot Notepad\obj\Debug\Hot Notepad.exe
+D:\Project\Hot Notepad\Hot Notepad\obj\Debug\Hot Notepad.pdb
+D:\Project\GitHub\Hot Notepad\Hot Notepad\bin\Debug\Hot Notepad.exe.config
+D:\Project\GitHub\Hot Notepad\Hot Notepad\bin\Debug\Hot Notepad.exe
+D:\Project\GitHub\Hot Notepad\Hot Notepad\bin\Debug\Hot Notepad.pdb
+D:\Project\GitHub\Hot Notepad\Hot Notepad\obj\Debug\Hot Notepad.csprojAssemblyReference.cache
+D:\Project\GitHub\Hot Notepad\Hot Notepad\obj\Debug\Hot_Notepad.Form1.resources
+D:\Project\GitHub\Hot Notepad\Hot Notepad\obj\Debug\Hot_Notepad.Properties.Resources.resources
+D:\Project\GitHub\Hot Notepad\Hot Notepad\obj\Debug\Hot Notepad.csproj.GenerateResource.cache
+D:\Project\GitHub\Hot Notepad\Hot Notepad\obj\Debug\Hot Notepad.csproj.CoreCompileInputs.cache
+D:\Project\GitHub\Hot Notepad\Hot Notepad\obj\Debug\Hot Notepad.exe
+D:\Project\GitHub\Hot Notepad\Hot Notepad\obj\Debug\Hot Notepad.pdb
